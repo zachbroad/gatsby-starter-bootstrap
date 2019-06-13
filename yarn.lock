@@ -5407,9 +5407,9 @@ gatsby-plugin-page-creator@^2.0.13:
     micromatch "^3.1.10"
     slash "^1.0.0"
 
-gatsby-plugin-preact@2.0.11:
-  version "2.0.11"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-preact/-/gatsby-plugin-preact-2.0.11.tgz#c4bdbeeb2231ff36e4d1c1724bcd9dd0ad1c293d"
+gatsby-plugin-preact@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-preact/-/gatsby-plugin-preact-3.0.0.tgz#974c6bc46fd4a2f79aed9a99c096e40ed4a57589"
   dependencies:
     "@babel/runtime" "^7.0.0"
 
